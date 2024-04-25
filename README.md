@@ -1,5 +1,5 @@
 # unique-stream
-
+To avoid problem with through2-filter
 node.js through stream that emits a unique stream of objects based on criteria
 
 [![Build Status](https://travis-ci.org/eugeneware/unique-stream.svg?branch=master)](https://travis-ci.org/eugeneware/unique-stream)
